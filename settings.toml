@@ -1,0 +1,6 @@
+mCIRCUITPY_WIFI_SSID = "Wifi password"
+mCIRCUITPY_WIFI_PASSWORD = "wifi name"
+
+# Only need for networking
+mCIRCUITPY_IP = "server ip"
+mCIRCUITPY_PORT = "8000"
